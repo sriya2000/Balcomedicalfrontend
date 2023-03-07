@@ -1,0 +1,17 @@
+
+.about__section-container2{
+    display: grid;
+    /* grid-template-columns: ; */
+    gap: 2%;
+}
+.about__section-image3{
+    width: 40%;
+    margin-left: 30%;
+}
+.text1{
+    text-align: center;
+
+}
+.name1{
+    text-align: center;
+}

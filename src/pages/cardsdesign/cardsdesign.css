@@ -1,0 +1,75 @@
+.mac{
+    margin-top: 20%;
+    margin-left: 50px;
+}
+
+.cardsde{
+    position: relative;
+    width: 197px;
+    height: 119px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    padding: 45px 60px;
+    background:rgb(140, 165, 83) ;
+    cursor: pointer;
+    
+}
+.cardsde:hover{
+    height: 250px;
+
+}
+
+.imgbox{
+    position:relative;
+    width: 90px;
+    height: 119px;
+    transform: translateY(-100px);
+    align-items: center;
+    margin-left: -6px;
+    z-index:99 ;
+    
+
+}
+.imag1{
+    width: 108%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+}
+.content{
+    padding: 5px -2px;
+    text-align:center;
+    transform: translateY(-350px);
+    opacity: 0;
+    transition: 0.3s;
+    margin: 0px;
+}
+.cardsde:hover >.content{
+    opacity: 1;
+    transform: translateY(-95px);
+}
+.logo6{
+    height: 30px;
+    width: 30px;
+    margin-left: 50%;
+}
+.style6{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+/* .content a{
+    font-size: 12px;
+} */
+.content h5{
+    font-size: 17px;
+}
+.content p{
+    font-size: 13px;
+}
+.btn6{
+    font-size: 20px;
+
+}

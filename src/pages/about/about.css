@@ -1,0 +1,57 @@
+.leader{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10%;
+}
+.logo2{
+    height: 30px;
+    width: 30px;
+    margin-left: 48%;
+    margin-bottom: -5%;
+}
+.about__section-image{
+    margin-top: 10%;
+    margin-left: 90px;
+    width: 20rem;
+}
+.about__section-container{
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 5%;
+}
+.about__section-content{
+    margin-top: 2rem;
+
+}
+.chairman{
+    color: #008000;
+}
+.name1{
+    color: rgb(78, 78, 141);
+    font-weight: bold;
+    font-style: italic;
+
+}
+.about__section-container1{
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: 50% 40%;
+    gap: 5%;
+}
+.about__section-content1{
+    margin-left: 90px;
+}
+.name2{
+    color: rgb(78, 78, 141);
+    font-weight: bold;
+    font-style: italic;
+
+}
+.chairperson{
+    color: #008000;
+}
+.background{
+    background-color: beige;
+}

@@ -1,0 +1,16 @@
+.about__section-container4{
+    display: grid;
+    /* grid-template-columns: ; */
+    gap: 2%;
+}
+.about__section-image4{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.text2{
+    text-align: center;
+
+}
+.name2{
+    text-align: center;
+}

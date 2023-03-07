@@ -1,0 +1,24 @@
+.cimg{
+    height: 80%;
+    width: 80%;
+   
+    } 
+    .cd1{
+       border-radius: none;
+        margin-top: 50px;
+        
+        
+    }
+    .dc{
+        text-align: center;
+        margin-top: 30px;
+        padding-bottom: 10px;
+        border-bottom:4px solid #151515;
+        
+        
+    }
+    .button{
+       
+        background-color: black;
+        color: rgb(229, 179, 126);
+    }
